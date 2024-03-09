@@ -1,0 +1,19 @@
+.DS_Store
+
+# Vscode
+.vscode
+
+# Pycharm
+.idea
+
+# py
+__pycache__
+
+# data
+data
+
+# app
+# app
+
+# output log
+*.log
