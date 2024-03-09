@@ -1,0 +1,5 @@
+# 指定所有文件使用 LF 换行符
+* text eol=lf
+
+# 指定特定文件或目录使用 LF 换行符
+path/to/specific/file.txt text eol=lf
